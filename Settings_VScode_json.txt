@@ -1,0 +1,32 @@
+{
+	"liveServer.settings.donotShowInfoMsg": true,
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "php.debug.executablePath": "",
+    "phpserver.browser": "chrome",
+    "phpserver.phpConfigPath": "C:\\xampp\\php\\php.ini",
+    "phpserver.phpPath": "C:\\xampp\\php\\php.exe",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 0.8,
+    "files.autoSave": "afterDelay",
+	// Icones
+    "workbench.iconTheme": "icons",
+    "editor.fontVariations": true,
+	// Edição
+    "breadcrumbs.enabled": false, // Barra em cima que especifica o caminho e objetos
+	// Cursor
+	"editor.cursorStyle": "line", // Tem a opção em block , block-outline, line, line-thin , underline, underline-thin
+	"editor.cursorBlinking": "smooth",
+	// Fonte
+	"editor.fontFamily": "Fira Code", //Source Code Pro, Montserrat, Fira Code
+	"editor.fontLigatures": true,
+	"editor.fontSize": 15,
+	"editor.insertSpaces": true,
+	"editor.lineHeight": 20,
+	"editor.tabSize": 4, // Distancia da lateral
+	//"window.menuBarVisibility": "toggle" - Barra de ações no topo,
+	"window.titleBarStyle": "custom",
+	"workbench.sideBar.location": "right",
+	"terminal.integrated.fontSize": 15,
+	"terminal.integrated.fastScrollSensitivity": 2,// Barra lateral
+	"workbench.colorTheme": "One Dark Pro Flat" //Linux Themes, Gnome Dark, One Dark Pro
+}
